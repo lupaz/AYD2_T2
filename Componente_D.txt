@@ -3,3 +3,5 @@ Esta es la primera version del componente D
 Esta es la segunda version del componente D
 
 Esta es la Tercera version del componente D
+
+Se corrigio un error en el componente D en la rama developer
